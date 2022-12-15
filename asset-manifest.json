@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/note-game/static/css/main.073c9b0a.css",
+    "main.js": "/note-game/static/js/main.cd5b9f24.js",
+    "static/js/787.f9da7b29.chunk.js": "/note-game/static/js/787.f9da7b29.chunk.js",
+    "static/media/logo.svg": "/note-game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/note-game/index.html",
+    "main.073c9b0a.css.map": "/note-game/static/css/main.073c9b0a.css.map",
+    "main.cd5b9f24.js.map": "/note-game/static/js/main.cd5b9f24.js.map",
+    "787.f9da7b29.chunk.js.map": "/note-game/static/js/787.f9da7b29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.cd5b9f24.js"
+  ]
+}
