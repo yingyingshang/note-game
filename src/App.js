@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar"
 import Main from "./components/Main"
 import Sidebar from './components/Sidebar';
 import Editor from './components/Editor';
-import {data} from "/.data"
+// import Data from "./components/data"
 import Split from "react-split"
 import {nanoid} from "nanoid"
 
